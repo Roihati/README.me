@@ -13,8 +13,9 @@ Languages & Frameworks
 PHP	Laravel	HTML5	CSS3	Tailwind CSS
 
 Database & Tools
+
 MySQL	PDO	Git	GitHub	WAMP / XAMPP
-🚀  Featured Projects
+  Featured Projects
 ▸  BugTracker Pro  —  Full-stack bug tracking app — PHP, MySQL, sessions, admin dashboard, CRUD
 ▸  Admin Dashboard  —  Role-based admin panel with real-time stats and data management
 ▸  E-Commerce Web Solution  —  Custom online store with product management and secure checkout flow
