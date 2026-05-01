@@ -1,13 +1,17 @@
 # README.me
   ROIHATI
-Web Developer  & Entrepreneur
+Web Developer & Entrepreneur
 Specialised in building modern, high-performance web applications — from secure backend systems to clean, responsive interfaces.
+
   About Me
-I am a full-stack web developer with a strong focus on PHP & MySQL backend development, paired with modern frontend design using Tailwind CSS. I build practical, scalable solutions — from custom management systems to admin dashboards and e-commerce platforms.
+I am a full-stack web developer with a strong focus on PHP & MySQL backend development, paired with modern frontend design using Tailwind CSS. 
+I build practical, scalable solutions — from custom management systems to admin dashboards and e-commerce platforms.
 My goal is to deliver clean, functional, and well-structured code that solves real problems for real clients.
+
 🛠️  Tech Stack
 Languages & Frameworks
 PHP	Laravel	HTML5	CSS3	Tailwind CSS
+
 Database & Tools
 MySQL	PDO	Git	GitHub	WAMP / XAMPP
 🚀  Featured Projects
